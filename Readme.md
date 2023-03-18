@@ -19,3 +19,5 @@ Each model has a Credit for use.
 - Tachibana Kanade (Angel Beats!)
 ### stage
 - Figure Stand (used for display figures)
+- Homebase New Year (homebase of AG's)
+- Kyoushitu (class Room)
