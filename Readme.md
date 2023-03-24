@@ -5,8 +5,9 @@ Each model has a Credit for use.
 It can be non-accurate, changes when there are more files. 
 ### model
 - miku
-    - Tda式 初音ミク V4X (selected by default)
-    - つみ式ミクさん V4X (V4X coat)
+    - Tda式 V4X (selected by default)
+    - Tda式 アペンド
+    - つみ式 ミクさん V4X (V4X coat)
     - Api Miku
     - School Uniform Miku
 - Arona (BlueArchive, Test model)
@@ -20,7 +21,7 @@ It can be non-accurate, changes when there are more files.
     - Pecorine
 - Monika (DDLC)
 - Tachibana Kanade (Angel Beats!)
-- ag (オルタナティブガールズ)
+- ag (オルタナティブガールズ, no face morph)
     - Asahina Nono
     - Hiiragi Tsumugi
     - Mano Sakurako
