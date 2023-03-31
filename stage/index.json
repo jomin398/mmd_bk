@@ -1,0 +1,32 @@
+{
+    "t": "mmd stages",
+    "b": [
+        null,
+        null,
+        null,
+        "https://raw.githack.com/jomin398/mmd_bk/master/stage/"
+    ],
+    "d": [
+        {
+            "n": "Hitomi School Homebase",
+            "r": 3,
+            "setup": {
+                "pos": [
+                    1,
+                    0,
+                    50
+                ],
+                "scale": [
+                    1.2,
+                    1.2,
+                    1.2
+                ]
+            }
+        },
+        {
+            "n": "ClassRoom",
+            "f": "MMD_Kyoushitu",
+            "r": 3
+        }
+    ]
+}

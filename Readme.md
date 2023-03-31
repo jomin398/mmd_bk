@@ -2,32 +2,7 @@
 Each model has a Credit for use.
 
 ## folder structure.
-It can be non-accurate, changes when there are more files. 
-### model
-- miku
-    - Tda式 V4X (selected by default)
-    - Tda式 アペンド
-    - つみ式 ミクさん V4X (V4X coat)
-    - Api Miku
-    - School Uniform Miku
-- Arona (BlueArchive, Test model)
-- Barbara (Genshin)
-- girlfronts (Girl's FrontLine)
-    - IDW 
-    - G41
-- pcr
-    - Kokkoro
-    - Kyaru
-    - Pecorine
-- Monika (DDLC)
-- Tachibana Kanade (Angel Beats!)
-- ag (オルタナティブガールズ, no face morph)
-    - Asahina Nono
-    - Hiiragi Tsumugi
-    - Mano Sakurako
-    - Orimiya Yui
-    - Yuki Miyaka
-### stage
-- Figure Stand (used for display figures)
-- Hitomi School Homebase (homebase of AG's)
-- Kyoushitu (class Room)
+It can be non-accurate, changes when there are more files.  
+
+- model [readme](./model/readme.md)
+- stage [readme](./stage/readme.md)

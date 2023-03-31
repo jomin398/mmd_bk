@@ -1,0 +1,168 @@
+{
+    "t": "mmd models",
+    "b": [
+        null,
+        null,
+        null,
+        "https://raw.githack.com/jomin398/mmd_bk/master/model/"
+    ],
+    "d": [
+        {
+            "t": "初音ミク",
+            "f": "miku",
+            "d": [
+                {
+                    "n": "ApiMiku",
+                    "r": 3
+                },
+                {
+                    "n": "School Uniform",
+                    "f": "School Uniform Miku",
+                    "r": 3
+                },
+                {
+                    "n": "Tda式 V4X",
+                    "f": "Tda式 初音ミク V4X",
+                    "r": 3
+                },
+                {
+                    "n": "アペンド Ver1.10",
+                    "f": "Tda式初音ミク・アペンドVer1.10",
+                    "r": 3
+                },
+                {
+                    "n": "つみ式 V4X",
+                    "f": "つみ式ミクさん V4X",
+                    "r": 3
+                },
+                {
+                    "n": "桜ミク v1.00",
+                    "f": "YYB式桜ミクv1.00",
+                    "r": 3
+                },
+                {
+                    "n": "初音ミク 10th",
+                    "f": "YYB式初音ミク_10th",
+                    "r": 3
+                },
+                {
+                    "f": "SnowMiku2023",
+                    "n": "2023 雪ミク",
+                    "r": 3
+                }
+            ]
+        },
+        {
+            "t": "アズールレーン",
+            "f": "azurlane",
+            "d": [
+                {
+                    "n": "綾波",
+                    "f": "Ayanami",
+                    "r": 3
+                }
+            ]
+        },
+        {
+            "t": "アニメ",
+            "f": "anime",
+            "d": [
+                {
+                    "n": "立華かなで",
+                    "f": "TachibanaKanade",
+                    "r": 3
+                }
+            ]
+        },
+        {
+            "t": "オルタナティブガールズ",
+            "f": "ag",
+            "d": [
+                {
+                    "n": "朝比奈 乃々",
+                    "f": "Asahina Nono",
+                    "r": 3
+                },
+                {
+                    "n": "柊 つむぎ",
+                    "f": "Hiiragi Tsumugi",
+                    "r": 3
+                },
+                {
+                    "n": "真野 桜子",
+                    "f": "Mano Sakurako",
+                    "r": 3
+                },
+                {
+                    "n": "織宮 結衣",
+                    "f": "Orimiya Yui",
+                    "r": 3
+                },
+                {
+                    "n": "悠木 美弥花",
+                    "f": "Yuki Miyaka",
+                    "r": 3
+                }
+            ]
+        },
+        {
+            "t": "少女前线",
+            "f": "girlfronts",
+            "d": [
+                {
+                    "n": "g41",
+                    "f": "g41 (player ver)",
+                    "r": 3
+                },
+                {
+                    "n": "IDW",
+                    "r": 0
+                }
+            ]
+        },
+        {
+            "t": "艦これ",
+            "f": "kancolle",
+            "d": [
+                {
+                    "n": "[時雨] 第二改 造夏",
+                    "f": "[時雨] 第二改造夏",
+                    "r": 3
+                }
+            ]
+        },
+        {
+            "n": "Barbara",
+            "r": 3
+        },
+        {
+            "n": "アロナ (ブルアカ)",
+            "f": "Arona_Original",
+            "r": 3
+        },
+        {
+            "n": "Monika",
+            "r": 3
+        },
+        {
+            "n": "[キアナ] Void Drifter",
+            "f": "Kiana Void Drifter",
+            "r": 3
+        },
+        {
+            "n": "桐生ココ",
+            "f": "Kiryu Coco",
+            "r": 3
+        },
+        {
+            "n": "ライザリン・シュタウト",
+            "f": "Reisalin Stout",
+            "r": 3
+        },
+        {
+            "n": "Saiko (Yandere)",
+            "f": "[hidden] Saiko (Yandere)",
+            "r": 3
+        }
+    ]
+}
