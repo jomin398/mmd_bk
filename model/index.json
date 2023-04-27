@@ -158,6 +158,22 @@
             ]
         },
         {
+            "t": "v-tuber",
+            "f": "vtuber",
+            "d": [
+                {
+                    "n": "桐生ココ",
+                    "f": "Kiryu Coco",
+                    "r": 3
+                },
+                {
+                    "n": "Kizuna AI",
+                    "f": "Kizuna AI",
+                    "r": 3
+                }
+            ]
+        },
+        {
             "n": "Barbara",
             "r": 3
         },
@@ -168,11 +184,6 @@
         {
             "n": "[キアナ] Void Drifter",
             "f": "Kiana Void Drifter",
-            "r": 3
-        },
-        {
-            "n": "桐生ココ",
-            "f": "Kiryu Coco",
             "r": 3
         },
         {
